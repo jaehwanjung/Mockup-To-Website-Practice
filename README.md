@@ -9,6 +9,9 @@ Jan 25th, 2015
 ###Project Overview
 A design mockup is provided as a PDF-file and must be replicated in HTML and CSS. 
 
+### Learning Outcome
+* Intro to HTML and CSS
+
 ###Steps
 0. Download the design mockup file
 0. Write HTML and CSS files to recreate the design
