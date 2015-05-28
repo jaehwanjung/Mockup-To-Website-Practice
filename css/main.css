@@ -1,0 +1,45 @@
+.main_page {
+    margin: 2.5% 0 0 2.7%;
+}
+
+
+.main_title {
+    color: #666;
+    font: 500 343% Verdana, sans-serif;
+    margin: 1.8% 0 0.5% 0;
+}
+
+
+.sub-title {
+    color: #f07c17;
+    font: 700 172% Verdana, sans-serif;
+    margin: 3.6% 0 5.7% 0;
+}
+
+
+.feature-box {
+    border: 1px solid #ccc;
+    padding: 4.1% 0 0 7.9%;
+}
+
+
+.product-image {
+    margin: 5.7% 0 8.5% 0;
+}
+
+
+.description-section {
+    padding-left: 1.5%;
+}
+
+
+.description {
+    color: #666;
+    font: normal 400 114.5% Verdana, sans-serif;
+    line-height: 200%;
+}
+
+
+.feature-list {
+    margin: 8.5% 0 12% 0;
+}
