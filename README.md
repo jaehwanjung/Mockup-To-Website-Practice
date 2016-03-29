@@ -3,7 +3,7 @@
 -----------------
 
 ###Project Overview
-A design mockup is provided as a PDF-file and must be replicated in HTML and CSS. 
+A design mockup is provided and must be replicated in HTML and CSS. 
 
 ### Learning Outcome
 * Intro to HTML and CSS
