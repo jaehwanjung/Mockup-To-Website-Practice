@@ -1,8 +1,4 @@
-# Mockup To Website
-
-###[PROJECT @ UDACITY]
-
-Jan 25th, 2015
+# Mockup To Website Practice
 
 -----------------
 
